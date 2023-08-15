@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NY/static/css/main.5a46e529.chunk.css",
+    "main.js": "/NY/static/js/main.0b4d4e91.chunk.js",
+    "main.js.map": "/NY/static/js/main.0b4d4e91.chunk.js.map",
+    "runtime~main.js": "/NY/static/js/runtime~main.b59e96e5.js",
+    "runtime~main.js.map": "/NY/static/js/runtime~main.b59e96e5.js.map",
+    "static/css/2.bc1e5c15.chunk.css": "/NY/static/css/2.bc1e5c15.chunk.css",
+    "static/js/2.4a58756b.chunk.js": "/NY/static/js/2.4a58756b.chunk.js",
+    "static/js/2.4a58756b.chunk.js.map": "/NY/static/js/2.4a58756b.chunk.js.map",
+    "index.html": "/NY/index.html",
+    "precache-manifest.da40dd4e89d319d1203bf9cf0057a1e2.js": "/NY/precache-manifest.da40dd4e89d319d1203bf9cf0057a1e2.js",
+    "service-worker.js": "/NY/service-worker.js",
+    "static/css/2.bc1e5c15.chunk.css.map": "/NY/static/css/2.bc1e5c15.chunk.css.map",
+    "static/css/main.5a46e529.chunk.css.map": "/NY/static/css/main.5a46e529.chunk.css.map",
+    "static/media/1.jpeg": "/NY/static/media/1.9356cc5b.jpeg",
+    "static/media/2.jpeg": "/NY/static/media/2.906da2b8.jpeg",
+    "static/media/3.jpeg": "/NY/static/media/3.7652337b.jpeg",
+    "static/media/4.jpeg": "/NY/static/media/4.38d3c315.jpeg",
+    "static/media/5.jpeg": "/NY/static/media/5.538e74e7.jpeg",
+    "static/media/6.jpeg": "/NY/static/media/6.95efd987.jpeg",
+    "static/media/App.css": "/NY/static/media/counter-1-1600x600.0848d9d0.jpg",
+    "static/media/invite.png": "/NY/static/media/invite.ae831ff0.png"
+  }
+}
